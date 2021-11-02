@@ -1,11 +1,12 @@
 {
   "name": "Nhentabs",
+  "description":"Search nhentai code via contextMenus API",
   "version": "1.0",
   "manifest_version": 2,
   "permissions":[
       "contextMenus","tabs"
   ],
   "background": {
-    "scripts": ["background.js"]
+    "scripts": "background.js"
   }
 }
