@@ -7,6 +7,6 @@
       "contextMenus","tabs"
   ],
   "background": {
-    "scripts": "background.js"
+    "scripts": ["background.js"]
   }
 }
