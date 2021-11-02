@@ -1,0 +1,11 @@
+{
+  "name": "Nhentabs",
+  "version": "1.0",
+  "manifest_version": 2,
+  "permissions":[
+      "contextMenus","tabs"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
